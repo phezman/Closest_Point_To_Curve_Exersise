@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Closest_Point_To_Curve_Exersise/1.0.0": {
+        "runtime": {
+          "Closest_Point_To_Curve_Exersise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Closest_Point_To_Curve_Exersise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

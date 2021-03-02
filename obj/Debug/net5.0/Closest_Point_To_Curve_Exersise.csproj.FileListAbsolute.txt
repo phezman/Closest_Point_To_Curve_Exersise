@@ -1,0 +1,30 @@
+/Users/ralph/Desktop/Closest_Point_To_Curve_Exersise/bin/Debug/net5.0/Closest_Point_To_Curve_Exersise.deps.json
+/Users/ralph/Desktop/Closest_Point_To_Curve_Exersise/bin/Debug/net5.0/Closest_Point_To_Curve_Exersise.runtimeconfig.json
+/Users/ralph/Desktop/Closest_Point_To_Curve_Exersise/bin/Debug/net5.0/Closest_Point_To_Curve_Exersise.runtimeconfig.dev.json
+/Users/ralph/Desktop/Closest_Point_To_Curve_Exersise/bin/Debug/net5.0/Closest_Point_To_Curve_Exersise.dll
+/Users/ralph/Desktop/Closest_Point_To_Curve_Exersise/bin/Debug/net5.0/ref/Closest_Point_To_Curve_Exersise.dll
+/Users/ralph/Desktop/Closest_Point_To_Curve_Exersise/bin/Debug/net5.0/Closest_Point_To_Curve_Exersise.pdb
+/Users/ralph/Desktop/Closest_Point_To_Curve_Exersise/obj/Debug/net5.0/Closest_Point_To_Curve_Exersise.csprojAssemblyReference.cache
+/Users/ralph/Desktop/Closest_Point_To_Curve_Exersise/obj/Debug/net5.0/Closest_Point_To_Curve_Exersise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralph/Desktop/Closest_Point_To_Curve_Exersise/obj/Debug/net5.0/Closest_Point_To_Curve_Exersise.AssemblyInfoInputs.cache
+/Users/ralph/Desktop/Closest_Point_To_Curve_Exersise/obj/Debug/net5.0/Closest_Point_To_Curve_Exersise.AssemblyInfo.cs
+/Users/ralph/Desktop/Closest_Point_To_Curve_Exersise/obj/Debug/net5.0/Closest_Point_To_Curve_Exersise.csproj.CoreCompileInputs.cache
+/Users/ralph/Desktop/Closest_Point_To_Curve_Exersise/obj/Debug/net5.0/Closest_Point_To_Curve_Exersise.dll
+/Users/ralph/Desktop/Closest_Point_To_Curve_Exersise/obj/Debug/net5.0/ref/Closest_Point_To_Curve_Exersise.dll
+/Users/ralph/Desktop/Closest_Point_To_Curve_Exersise/obj/Debug/net5.0/Closest_Point_To_Curve_Exersise.pdb
+/Users/ralph/Desktop/Closest_Point_To_Curve_Exersise/obj/Debug/net5.0/Closest_Point_To_Curve_Exersise.genruntimeconfig.cache
+/Users/ralph/OneDrive/Work/Grad Jobs/Cover Letters/Closest_Point_To_Curve_Exersise/bin/Debug/net5.0/Closest_Point_To_Curve_Exersise.deps.json
+/Users/ralph/OneDrive/Work/Grad Jobs/Cover Letters/Closest_Point_To_Curve_Exersise/bin/Debug/net5.0/Closest_Point_To_Curve_Exersise.runtimeconfig.json
+/Users/ralph/OneDrive/Work/Grad Jobs/Cover Letters/Closest_Point_To_Curve_Exersise/bin/Debug/net5.0/Closest_Point_To_Curve_Exersise.runtimeconfig.dev.json
+/Users/ralph/OneDrive/Work/Grad Jobs/Cover Letters/Closest_Point_To_Curve_Exersise/bin/Debug/net5.0/Closest_Point_To_Curve_Exersise.dll
+/Users/ralph/OneDrive/Work/Grad Jobs/Cover Letters/Closest_Point_To_Curve_Exersise/bin/Debug/net5.0/ref/Closest_Point_To_Curve_Exersise.dll
+/Users/ralph/OneDrive/Work/Grad Jobs/Cover Letters/Closest_Point_To_Curve_Exersise/bin/Debug/net5.0/Closest_Point_To_Curve_Exersise.pdb
+/Users/ralph/OneDrive/Work/Grad Jobs/Cover Letters/Closest_Point_To_Curve_Exersise/obj/Debug/net5.0/Closest_Point_To_Curve_Exersise.csprojAssemblyReference.cache
+/Users/ralph/OneDrive/Work/Grad Jobs/Cover Letters/Closest_Point_To_Curve_Exersise/obj/Debug/net5.0/Closest_Point_To_Curve_Exersise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralph/OneDrive/Work/Grad Jobs/Cover Letters/Closest_Point_To_Curve_Exersise/obj/Debug/net5.0/Closest_Point_To_Curve_Exersise.AssemblyInfoInputs.cache
+/Users/ralph/OneDrive/Work/Grad Jobs/Cover Letters/Closest_Point_To_Curve_Exersise/obj/Debug/net5.0/Closest_Point_To_Curve_Exersise.AssemblyInfo.cs
+/Users/ralph/OneDrive/Work/Grad Jobs/Cover Letters/Closest_Point_To_Curve_Exersise/obj/Debug/net5.0/Closest_Point_To_Curve_Exersise.csproj.CoreCompileInputs.cache
+/Users/ralph/OneDrive/Work/Grad Jobs/Cover Letters/Closest_Point_To_Curve_Exersise/obj/Debug/net5.0/Closest_Point_To_Curve_Exersise.dll
+/Users/ralph/OneDrive/Work/Grad Jobs/Cover Letters/Closest_Point_To_Curve_Exersise/obj/Debug/net5.0/ref/Closest_Point_To_Curve_Exersise.dll
+/Users/ralph/OneDrive/Work/Grad Jobs/Cover Letters/Closest_Point_To_Curve_Exersise/obj/Debug/net5.0/Closest_Point_To_Curve_Exersise.pdb
+/Users/ralph/OneDrive/Work/Grad Jobs/Cover Letters/Closest_Point_To_Curve_Exersise/obj/Debug/net5.0/Closest_Point_To_Curve_Exersise.genruntimeconfig.cache
